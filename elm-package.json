@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "summary": "Caching remote objects",
+    "summary": "Superseded by [thSoft/ExternalStorage](http://package.elm-lang.org/packages/thSoft/ExternalStorage/latest)",
     "repository": "https://github.com/thSoft/ElmCache.git",
     "license": "BSD3",
     "source-directories": [
